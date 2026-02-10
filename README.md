@@ -1,4 +1,4 @@
-<h2 align="center">Hi! My name is Hendrik Brüning and I'm a Student, at RWTH Aachen University</h2>
+<h2 align="center"Currently at RWTH Aachen University</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
